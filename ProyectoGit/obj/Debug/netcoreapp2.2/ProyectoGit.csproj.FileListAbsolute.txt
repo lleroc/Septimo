@@ -69,74 +69,72 @@ D:\Uniandes\Estudiantes\Septimo\Arbil 2020\git\lleroc\Septimo\ProyectoGit\obj\De
 D:\Uniandes\Estudiantes\Septimo\Arbil 2020\git\lleroc\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
 D:\Uniandes\Estudiantes\Septimo\Arbil 2020\git\lleroc\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 D:\Uniandes\Estudiantes\Septimo\Arbil 2020\git\lleroc\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\appsettings.Development.json
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\appsettings.json
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\Properties\serviceDependencies.json
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\Properties\serviceDependencies.local.json
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\ProyectoGit.deps.json
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\ProyectoGit.runtimeconfig.json
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\ProyectoGit.runtimeconfig.dev.json
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\ProyectoGit.dll
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\ProyectoGit.pdb
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\ProyectoGit.Views.dll
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\ProyectoGit.Views.pdb
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.csprojAssemblyReference.cache
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.AssemblyInfoInputs.cache
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.AssemblyInfo.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.csproj.CoreCompileInputs.cache
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.RazorAssemblyInfo.cache
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.RazorAssemblyInfo.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.TagHelpers.input.cache
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.TagHelpers.output.cache
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.RazorCoreGenerate.cache
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.RazorTargetAssemblyInfo.cache
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.RazorTargetAssemblyInfo.cs
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.Views.pdb
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.dll
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.pdb
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.genruntimeconfig.cache
-C:\Users\efco9\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.csproj.CopyComplete
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\Properties\serviceDependencies.json
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\Properties\serviceDependencies.local.json
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\ProyectoGit.deps.json
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\ProyectoGit.runtimeconfig.json
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\ProyectoGit.runtimeconfig.dev.json
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\ProyectoGit.dll
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\ProyectoGit.pdb
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\ProyectoGit.Views.dll
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\bin\Debug\netcoreapp2.2\ProyectoGit.Views.pdb
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.csprojAssemblyReference.cache
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.RazorAssemblyInfo.cache
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.RazorAssemblyInfo.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.AssemblyInfoInputs.cache
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.AssemblyInfo.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.TagHelpers.input.cache
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.TagHelpers.output.cache
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.RazorCoreGenerate.cache
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.RazorTargetAssemblyInfo.cache
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.RazorTargetAssemblyInfo.cs
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.Views.pdb
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.dll
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.pdb
+C:\Users\AR & the WOLF\source\repos\Septimo\ProyectoGit\obj\Debug\netcoreapp2.2\ProyectoGit.csproj.CopyComplete
