@@ -15,7 +15,7 @@ namespace ProyectoGit.Models
 
         public string descripcion { get; set; }
 
-        public string fecha_ingreso { get; set; }
+        public string fecha_ingres { get; set; }
 
     }
 }
