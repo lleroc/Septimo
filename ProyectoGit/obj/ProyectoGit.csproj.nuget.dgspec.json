@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Uniandes\\Estudiantes\\Septimo\\Arbil 2020\\git\\Septimo\\ProyectoGit\\ProyectoGit.csproj": {}
+    "C:\\Users\\efco9\\source\\repos\\Septimo\\ProyectoGit\\ProyectoGit.csproj": {}
   },
   "projects": {
-    "D:\\Uniandes\\Estudiantes\\Septimo\\Arbil 2020\\git\\Septimo\\ProyectoGit\\ProyectoGit.csproj": {
+    "C:\\Users\\efco9\\source\\repos\\Septimo\\ProyectoGit\\ProyectoGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Uniandes\\Estudiantes\\Septimo\\Arbil 2020\\git\\Septimo\\ProyectoGit\\ProyectoGit.csproj",
+        "projectUniqueName": "C:\\Users\\efco9\\source\\repos\\Septimo\\ProyectoGit\\ProyectoGit.csproj",
         "projectName": "ProyectoGit",
-        "projectPath": "D:\\Uniandes\\Estudiantes\\Septimo\\Arbil 2020\\git\\Septimo\\ProyectoGit\\ProyectoGit.csproj",
-        "packagesPath": "C:\\Users\\Lleroc\\.nuget\\packages\\",
-        "outputPath": "D:\\Uniandes\\Estudiantes\\Septimo\\Arbil 2020\\git\\Septimo\\ProyectoGit\\obj\\",
+        "projectPath": "C:\\Users\\efco9\\source\\repos\\Septimo\\ProyectoGit\\ProyectoGit.csproj",
+        "packagesPath": "C:\\Users\\efco9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\efco9\\source\\repos\\Septimo\\ProyectoGit\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Lleroc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\efco9\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
